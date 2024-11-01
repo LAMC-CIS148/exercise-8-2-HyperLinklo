@@ -173,7 +173,7 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
-.slicknav_menu {
+slicknav_menu {
 	display: none;
 }
 
@@ -205,7 +205,7 @@ footer p {
 	#nav_menu {
 		display: none;
 	}
-	.slicknav_menu {
+	slicknav_menu {
 		display: block;
 		background-color: #800000 !important;
 	}
